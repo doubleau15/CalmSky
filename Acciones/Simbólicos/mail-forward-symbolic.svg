@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="mail-forward-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="13.3125"
+     inkscape:cx="7.9624413"
+     inkscape:cy="7.9624413"
+     inkscape:window-width="1366"
+     inkscape:window-height="692"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid823" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="stroke:none;stroke-width:0.816493"
+       id="rect1417"
+       width="2"
+       height="2"
+       x="1"
+       y="13"
+       ry="1" />
+    <path
+       id="rect1888"
+       style="stroke:none"
+       d="M 12 1 L 12 3 L 10 3 L 9 3 L 6 3 C 3.23 3 1 5.2300009 1 8 L 1 12 L 2 12 L 2 8 C 2 5.7839999 3.784 4 6 4 L 7 4 L 9 4 L 10 4 L 12 4 L 12 6 L 15 3.5 L 12 1 z M 13 12 L 13 12.005859 C 13.0026 12.003859 13.005212 12.002 13.007812 12 L 13 12 z " />
+  </g>
+</svg>

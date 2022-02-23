@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="mail-mark-junk-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="12.55494"
+     inkscape:cx="3.185997"
+     inkscape:cy="3.8231964"
+     inkscape:window-width="1366"
+     inkscape:window-height="692"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showguides="false"
+     inkscape:lockguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g831"
+       transform="translate(0,-2)" />
+    <rect
+       style="fill-opacity:1;stroke:none;stroke-width:0.79057"
+       id="rect4361"
+       width="2"
+       height="5"
+       x="7"
+       y="4"
+       ry="0" />
+    <rect
+       style="fill-opacity:1;stroke:none;stroke-width:0.5"
+       id="rect4361-5"
+       width="2"
+       height="2"
+       x="7"
+       y="10"
+       ry="0" />
+    <path
+       id="path2935"
+       style="stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       d="M 4.8007812 0 L 0.080078125 4.6054688 L 0 11.199219 L 4.6054688 15.919922 L 11.199219 16 L 15.919922 11.394531 L 16 4.8007812 L 11.394531 0.080078125 L 4.8007812 0 z M 5.1992188 1 L 10.970703 1.0703125 L 15 5.1992188 L 14.929688 10.970703 L 10.800781 15 L 5.0292969 14.929688 L 1 10.800781 L 1.0703125 5.0292969 L 5.1992188 1 z " />
+  </g>
+</svg>
