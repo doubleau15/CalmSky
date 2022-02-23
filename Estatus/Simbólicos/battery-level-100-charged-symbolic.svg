@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="battery-level-100-charged-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="34.875"
+     inkscape:cx="14.107527"
+     inkscape:cy="12.530466"
+     inkscape:window-width="1366"
+     inkscape:window-height="692"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect848"
+       style="fill-opacity:0.999966;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+       d="M 3 3 C 1.338 3 0 4.338 0 6 L 0 10 C 0 11.662 1.338 13 3 13 L 11 13 L 11 12 L 3 12 C 1.892 12 1 11.108 1 10 L 1 6 C 1 4.892 1.892 4 3 4 L 11 4 C 12.108 4 13 4.892 13 6 L 13 10 L 14 10 L 14 6 C 14 4.338 12.662 3 11 3 L 3 3 z " />
+    <rect
+       style="fill-opacity:0.999966;stroke-width:0.676129;stroke-linecap:round;stroke-linejoin:round"
+       id="rect848-3"
+       width="1"
+       height="4"
+       x="15"
+       y="6"
+       ry="0" />
+    <rect
+       style="fill-opacity:0.999966;stroke-width:4.89899;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1304"
+       width="10"
+       height="6"
+       x="2"
+       y="5"
+       ry="1" />
+    <path
+       id="path858"
+       style="stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 14 11 L 12 14 L 14 14 L 14 16 L 16 13 L 14 13 L 14 11 z " />
+  </g>
+</svg>

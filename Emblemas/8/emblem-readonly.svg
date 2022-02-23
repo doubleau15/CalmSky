@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8"
+   height="8"
+   viewBox="0 0 2.1166666 2.1166666"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="emblem-readonly.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     height="8px"
+     inkscape:zoom="21.971895"
+     inkscape:cx="3.9368475"
+     inkscape:cy="3.9596038"
+     inkscape:window-width="1366"
+     inkscape:window-height="680"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect4097"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0.95396876,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,0.95396876,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.264604"
+       id="rect848"
+       width="2.1166666"
+       height="2.1170001"
+       x="0"
+       y="-2.1170001"
+       ry="1.0585001"
+       transform="scale(1,-1)" />
+    <path
+       id="rect9596-3"
+       style="fill:#f5c233;fill-opacity:1;stroke:none;stroke-width:1.73205;fill-rule:evenodd"
+       d="M 3 1 C 2.446 1 2 1.446 2 2 L 2 6 C 2 6.554 2.446 7 3 7 L 5 7 C 5.554 7 6 6.554 6 6 L 6 2 C 6 1.446 5.554 1 5 1 L 3 1 z M 3 2 L 5 2 L 5 3 L 3 3 L 3 2 z "
+       transform="scale(0.26458333)" />
+  </g>
+</svg>
