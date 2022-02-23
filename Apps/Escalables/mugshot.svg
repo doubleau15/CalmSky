@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="mugshot.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     width="72px"
+     inkscape:zoom="3.8669902"
+     inkscape:cx="38.660558"
+     inkscape:cy="44.866936"
+     inkscape:window-width="1366"
+     inkscape:window-height="699"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1374"
+       x="-0.058909093"
+       y="-2.5920001"
+       width="1.1178182"
+       height="6.1840002">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.08"
+         id="feGaussianBlur1376" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1378"
+       x="-0.058909093"
+       y="-2.5920001"
+       width="1.1178182"
+       height="6.1840002">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.08"
+         id="feGaussianBlur1380" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1382"
+       x="-0.058909093"
+       y="-2.5920001"
+       width="1.1178182"
+       height="6.1840002">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.08"
+         id="feGaussianBlur1384" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1386"
+       x="-0.058909093"
+       y="-2.5920001"
+       width="1.1178182"
+       height="6.1840002">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.08"
+         id="feGaussianBlur1388" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1390"
+       x="-0.058909093"
+       y="-2.5920001"
+       width="1.1178182"
+       height="6.1840002">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.08"
+         id="feGaussianBlur1392" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1394"
+       x="-0.058909093"
+       y="-2.5920001"
+       width="1.1178182"
+       height="6.1840002">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.08"
+         id="feGaussianBlur1396" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1398"
+       x="-0.058909093"
+       y="-2.5920001"
+       width="1.1178182"
+       height="6.1840002">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.08"
+         id="feGaussianBlur1400" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1402"
+       x="-0.058909093"
+       y="-2.5920001"
+       width="1.1178182"
+       height="6.1840002">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.08"
+         id="feGaussianBlur1404" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1406"
+       x="-0.058909093"
+       y="-2.5920001"
+       width="1.1178182"
+       height="6.1840002">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.08"
+         id="feGaussianBlur1408" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1410"
+       x="-0.058909093"
+       y="-2.5920001"
+       width="1.1178182"
+       height="6.1840002">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.08"
+         id="feGaussianBlur1412" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1414"
+       x="-0.058909093"
+       y="-2.5920001"
+       width="1.1178182"
+       height="6.1840002">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.08"
+         id="feGaussianBlur1416" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1418"
+       x="-0.048000002"
+       y="-0.048000002"
+       width="1.096"
+       height="1.096">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.08"
+         id="feGaussianBlur1420" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1422">
+      <path
+         id="path1424"
+         style="fill:#171717;fill-opacity:1;stroke-width:1.186"
+         d="m 32,17 c -4.432,0 -8,3.568 -8,8 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 0,-4.432 -3.568,-8 -8,-8 z m 0,19 C 22.582,36 15,43.582 15,53 H 49 C 49,43.582 41.418,36 32,36 Z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1426">
+      <path
+         id="path1428"
+         style="fill:#171717;fill-opacity:1;stroke-width:1.186"
+         d="m 32,17 c -4.432,0 -8,3.568 -8,8 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 0,-4.432 -3.568,-8 -8,-8 z m 0,19 C 22.582,36 15,43.582 15,53 H 49 C 49,43.582 41.418,36 32,36 Z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1430">
+      <path
+         id="path1432"
+         style="fill:#171717;fill-opacity:1;stroke-width:1.186"
+         d="m 32,17 c -4.432,0 -8,3.568 -8,8 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 0,-4.432 -3.568,-8 -8,-8 z m 0,19 C 22.582,36 15,43.582 15,53 H 49 C 49,43.582 41.418,36 32,36 Z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1434">
+      <path
+         id="path1436"
+         style="fill:#171717;fill-opacity:1;stroke-width:1.186"
+         d="m 32,17 c -4.432,0 -8,3.568 -8,8 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 0,-4.432 -3.568,-8 -8,-8 z m 0,19 C 22.582,36 15,43.582 15,53 H 49 C 49,43.582 41.418,36 32,36 Z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1438">
+      <path
+         id="path1440"
+         style="fill:#171717;fill-opacity:1;stroke-width:1.186"
+         d="m 32,17 c -4.432,0 -8,3.568 -8,8 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 0,-4.432 -3.568,-8 -8,-8 z m 0,19 C 22.582,36 15,43.582 15,53 H 49 C 49,43.582 41.418,36 32,36 Z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1442">
+      <path
+         id="path1444"
+         style="fill:#171717;fill-opacity:1;stroke-width:1.186"
+         d="m 32,17 c -4.432,0 -8,3.568 -8,8 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 0,-4.432 -3.568,-8 -8,-8 z m 0,19 C 22.582,36 15,43.582 15,53 H 49 C 49,43.582 41.418,36 32,36 Z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1446">
+      <path
+         id="path1448"
+         style="fill:#171717;fill-opacity:1;stroke-width:1.186"
+         d="m 32,17 c -4.432,0 -8,3.568 -8,8 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 0,-4.432 -3.568,-8 -8,-8 z m 0,19 C 22.582,36 15,43.582 15,53 H 49 C 49,43.582 41.418,36 32,36 Z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1450">
+      <path
+         id="path1452"
+         style="fill:#171717;fill-opacity:1;stroke-width:1.186"
+         d="m 32,17 c -4.432,0 -8,3.568 -8,8 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 0,-4.432 -3.568,-8 -8,-8 z m 0,19 C 22.582,36 15,43.582 15,53 H 49 C 49,43.582 41.418,36 32,36 Z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1454">
+      <path
+         id="path1456"
+         style="fill:#171717;fill-opacity:1;stroke-width:1.186"
+         d="m 32,17 c -4.432,0 -8,3.568 -8,8 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 0,-4.432 -3.568,-8 -8,-8 z m 0,19 C 22.582,36 15,43.582 15,53 H 49 C 49,43.582 41.418,36 32,36 Z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1458">
+      <path
+         id="path1460"
+         style="fill:#171717;fill-opacity:1;stroke-width:1.186"
+         d="m 32,17 c -4.432,0 -8,3.568 -8,8 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 0,-4.432 -3.568,-8 -8,-8 z m 0,19 C 22.582,36 15,43.582 15,53 H 49 C 49,43.582 41.418,36 32,36 Z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1462">
+      <path
+         id="path1464"
+         style="fill:#171717;fill-opacity:1;stroke-width:1.186"
+         d="m 32,17 c -4.432,0 -8,3.568 -8,8 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 0,-4.432 -3.568,-8 -8,-8 z m 0,19 C 22.582,36 15,43.582 15,53 H 49 C 49,43.582 41.418,36 32,36 Z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1466">
+      <path
+         id="path1468"
+         style="fill:#171717;fill-opacity:1;stroke-width:1.186"
+         d="m 32,17 c -4.432,0 -8,3.568 -8,8 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 0,-4.432 -3.568,-8 -8,-8 z m 0,19 C 22.582,36 15,43.582 15,53 H 49 C 49,43.582 41.418,36 32,36 Z" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1597"
+       x="-0.19764706"
+       y="-0.18666666"
+       width="1.3952941"
+       height="1.3733333">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.8"
+         id="feGaussianBlur1599" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#1e1e1e;stroke-width:0.989057;fill-opacity:1"
+       id="rect848"
+       width="58"
+       height="58"
+       x="3"
+       y="3"
+       ry="9" />
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke-width:0.920846"
+       id="rect848-3"
+       width="54"
+       height="54"
+       x="5"
+       y="5"
+       ry="7" />
+    <rect
+       style="fill:#363636;fill-opacity:1;stroke-width:0.988826"
+       id="rect1378"
+       width="44"
+       height="1"
+       x="10"
+       y="11"
+       ry="0" />
+    <rect
+       style="fill:#838383;fill-opacity:1;stroke-width:0.988826"
+       id="rect1378-6-9"
+       width="44"
+       height="1"
+       x="10"
+       y="31"
+       ry="0" />
+    <rect
+       style="fill:#838383;fill-opacity:1;stroke-width:0.988826"
+       id="rect1378-6-7-1"
+       width="44"
+       height="1"
+       x="10"
+       y="35"
+       ry="0" />
+    <rect
+       style="fill:#838383;fill-opacity:1;stroke-width:0.988826"
+       id="rect1378-6-7-5-2"
+       width="44"
+       height="1"
+       x="10"
+       y="39"
+       ry="0" />
+    <rect
+       style="fill:#838383;fill-opacity:1;stroke-width:0.988826"
+       id="rect1378-6-9-3"
+       width="44"
+       height="1"
+       x="10"
+       y="47"
+       ry="0" />
+    <rect
+       style="fill:#838383;fill-opacity:1;stroke-width:0.988826"
+       id="rect1378-6-9-3-6"
+       width="44"
+       height="1"
+       x="10"
+       y="51"
+       ry="0" />
+    <rect
+       style="fill:#363636;fill-opacity:1;stroke-width:0.988826"
+       id="rect1378-3"
+       width="44"
+       height="1"
+       x="10"
+       y="27"
+       ry="0" />
+    <rect
+       style="fill:#363636;fill-opacity:1;stroke-width:0.988826"
+       id="rect1378-3-7"
+       width="44"
+       height="1"
+       x="10"
+       y="43"
+       ry="0" />
+    <rect
+       style="fill:#838383;fill-opacity:1;stroke-width:0.988826"
+       id="rect1378-6"
+       width="44"
+       height="1"
+       x="10"
+       y="15"
+       ry="0" />
+    <rect
+       style="fill:#838383;fill-opacity:1;stroke-width:0.988826"
+       id="rect1378-6-7"
+       width="44"
+       height="1"
+       x="10"
+       y="19"
+       ry="0" />
+    <rect
+       style="fill:#838383;fill-opacity:1;stroke-width:0.988826"
+       id="rect1378-6-7-5"
+       width="44"
+       height="1"
+       x="10"
+       y="23"
+       ry="0" />
+    <path
+       id="rect2845-7-6"
+       style="fill:#000000;fill-opacity:0.30000001;stroke-width:1.186;filter:url(#filter1597)"
+       d="m 32,17 c -4.432,0 -8,3.568 -8,8 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 0,-4.432 -3.568,-8 -8,-8 z m 0,19 C 22.582,36 15,43.582 15,53 H 49 C 49,43.582 41.418,36 32,36 Z" />
+    <g
+       id="g1482">
+      <rect
+         style="fill:#f2f2f2;fill-opacity:1;stroke-width:0.920846;filter:url(#filter1418)"
+         id="rect848-3-3"
+         width="54"
+         height="54"
+         x="5"
+         y="5"
+         ry="7"
+         clip-path="url(#clipPath1466)" />
+      <rect
+         style="fill:#363636;fill-opacity:1;stroke-width:0.988826;filter:url(#filter1374)"
+         id="rect1378-5"
+         width="44"
+         height="1"
+         x="10"
+         y="11"
+         ry="0"
+         clip-path="url(#clipPath1462)" />
+      <rect
+         style="fill:#838383;fill-opacity:1;stroke-width:0.988826;filter:url(#filter1394)"
+         id="rect1378-6-9-6"
+         width="44"
+         height="1"
+         x="10"
+         y="31"
+         ry="0"
+         clip-path="url(#clipPath1458)" />
+      <rect
+         style="fill:#838383;fill-opacity:1;stroke-width:0.988826;filter:url(#filter1398)"
+         id="rect1378-6-7-1-2"
+         width="44"
+         height="1"
+         x="10"
+         y="35"
+         ry="0"
+         clip-path="url(#clipPath1454)" />
+      <rect
+         style="fill:#838383;fill-opacity:1;stroke-width:0.988826;filter:url(#filter1402)"
+         id="rect1378-6-7-5-2-9"
+         width="44"
+         height="1"
+         x="10"
+         y="39"
+         ry="0"
+         clip-path="url(#clipPath1450)" />
+      <rect
+         style="fill:#838383;fill-opacity:1;stroke-width:0.988826;filter:url(#filter1410)"
+         id="rect1378-6-9-3-1"
+         width="44"
+         height="1"
+         x="10"
+         y="47"
+         ry="0"
+         clip-path="url(#clipPath1446)" />
+      <rect
+         style="fill:#838383;fill-opacity:1;stroke-width:0.988826;filter:url(#filter1414)"
+         id="rect1378-6-9-3-6-2"
+         width="44"
+         height="1"
+         x="10"
+         y="51"
+         ry="0"
+         clip-path="url(#clipPath1442)" />
+      <rect
+         style="fill:#363636;fill-opacity:1;stroke-width:0.988826;filter:url(#filter1390)"
+         id="rect1378-3-70"
+         width="44"
+         height="1"
+         x="10"
+         y="27"
+         ry="0"
+         clip-path="url(#clipPath1438)" />
+      <rect
+         style="fill:#363636;fill-opacity:1;stroke-width:0.988826;filter:url(#filter1406)"
+         id="rect1378-3-7-9"
+         width="44"
+         height="1"
+         x="10"
+         y="43"
+         ry="0"
+         clip-path="url(#clipPath1434)" />
+      <rect
+         style="fill:#838383;fill-opacity:1;stroke-width:0.988826;filter:url(#filter1378)"
+         id="rect1378-6-3"
+         width="44"
+         height="1"
+         x="10"
+         y="15"
+         ry="0"
+         clip-path="url(#clipPath1430)" />
+      <rect
+         style="fill:#838383;fill-opacity:1;stroke-width:0.988826;filter:url(#filter1382)"
+         id="rect1378-6-7-6"
+         width="44"
+         height="1"
+         x="10"
+         y="19"
+         ry="0"
+         clip-path="url(#clipPath1426)" />
+      <rect
+         style="fill:#838383;fill-opacity:1;stroke-width:0.988826;filter:url(#filter1386)"
+         id="rect1378-6-7-5-0"
+         width="44"
+         height="1"
+         x="10"
+         y="23"
+         ry="0"
+         clip-path="url(#clipPath1422)" />
+    </g>
+    <path
+       id="rect2845-7"
+       style="fill:#ffffff;fill-opacity:0.40000001;stroke-width:1.186"
+       d="m 32,17 c -4.432,0 -8,3.568 -8,8 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 0,-4.432 -3.568,-8 -8,-8 z m 0,19 C 22.582,36 15,43.582 15,53 H 49 C 49,43.582 41.418,36 32,36 Z" />
+    <rect
+       style="fill:#1e1e1e;fill-opacity:1"
+       id="rect1868"
+       width="24"
+       height="8"
+       x="20"
+       y="48"
+       ry="2" />
+    <rect
+       style="fill:#f7f7f7;fill-opacity:1"
+       id="rect3316"
+       width="1"
+       height="4"
+       x="23"
+       y="50"
+       ry="0" />
+    <rect
+       style="fill:#f7f7f7;fill-opacity:1"
+       id="rect3316-7"
+       width="1"
+       height="4"
+       x="38"
+       y="50"
+       ry="0" />
+    <rect
+       style="fill:#f7f7f7;fill-opacity:1;stroke-width:0.866025"
+       id="rect3316-2"
+       width="1"
+       height="3"
+       x="26"
+       y="51"
+       ry="0" />
+    <rect
+       style="fill:#f7f7f7;fill-opacity:1;stroke-width:0.866025"
+       id="rect3316-2-8"
+       width="1"
+       height="3"
+       x="35"
+       y="51"
+       ry="0" />
+    <rect
+       style="fill:#f7f7f7;fill-opacity:1;stroke-width:0.866025"
+       id="rect3316-2-6"
+       width="1"
+       height="3"
+       x="29"
+       y="51"
+       ry="0" />
+    <rect
+       style="fill:#f7f7f7;fill-opacity:1;stroke-width:0.707107"
+       id="rect3316-2-6-1"
+       width="1"
+       height="2"
+       x="32"
+       y="52"
+       ry="0" />
+    <rect
+       style="fill:#f7f7f7;fill-opacity:1;stroke-width:0.707107"
+       id="rect3316-2-6-1-9"
+       width="1"
+       height="2"
+       x="40"
+       y="52"
+       ry="0" />
+  </g>
+</svg>
