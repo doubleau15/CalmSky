@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="view-app-grid-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="8.640625"
+     inkscape:cx="10.358047"
+     inkscape:cy="10.994575"
+     inkscape:window-width="1366"
+     inkscape:window-height="680"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Base"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill-opacity:0.996078;stroke-width:0.57735"
+       id="rect1302"
+       width="2"
+       height="2"
+       x="3"
+       y="3"
+       ry="0.66666669" />
+    <rect
+       style="fill-opacity:0.996078;stroke-width:0.57735"
+       id="rect1302-6"
+       width="2"
+       height="2"
+       x="3"
+       y="7"
+       ry="0.66666669" />
+    <rect
+       style="fill-opacity:0.996078;stroke-width:0.57735"
+       id="rect1302-6-1"
+       width="2"
+       height="2"
+       x="7"
+       y="7"
+       ry="0.66666669" />
+    <rect
+       style="fill-opacity:0.996078;stroke-width:0.57735"
+       id="rect1302-6-2"
+       width="2"
+       height="2"
+       x="11"
+       y="3"
+       ry="0.66666669" />
+    <rect
+       style="fill-opacity:0.996078;stroke-width:0.57735"
+       id="rect1302-6-7"
+       width="2"
+       height="2"
+       x="11"
+       y="7"
+       ry="0.66666669" />
+    <rect
+       style="fill-opacity:0.996078;stroke-width:0.57735"
+       id="rect1302-6-0"
+       width="2"
+       height="2"
+       x="7"
+       y="3"
+       ry="0.66666669" />
+    <rect
+       style="fill-opacity:0.996078;stroke-width:0.57735"
+       id="rect1302-6-9"
+       width="2"
+       height="2"
+       x="7"
+       y="11"
+       ry="0.66666669" />
+    <rect
+       style="fill-opacity:0.996078;stroke-width:0.57735"
+       id="rect1302-2"
+       width="2"
+       height="2"
+       x="3"
+       y="11"
+       ry="0.66666669" />
+    <rect
+       style="fill-opacity:0.996078;stroke-width:0.57735"
+       id="rect1302-9"
+       width="2"
+       height="2"
+       x="11"
+       y="11"
+       ry="0.66666669" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="ícono" />
+</svg>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="call-stop-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="26.625"
+     inkscape:cx="8.4131455"
+     inkscape:cy="10.178404"
+     inkscape:window-width="1366"
+     inkscape:window-height="692"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:object-paths="true"
+     inkscape:snap-smooth-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid838" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect2450"
+       style="stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       d="m 5,15 c 1.108,0 2,-0.892 2,-2 V 12 C 7,10.892 6.108,10 5,10 H 3 C 2.669489,10 2.358114,10.07991 2.083984,10.220703 2.335318,7.7083367 3.14491,5.81212 4.478516,4.478516 5.81212,3.14491 7.7083367,2.335318 10.220703,2.083984 10.079905,2.358114 10,2.669489 10,3 v 2 c 0,1.108 0.892,2 2,2 h 1 c 1.108,0 2,-0.892 2,-2 V 3 C 15,1.892 14.108,1 13,1 h -1 c -0.03463,0 -0.06933,2.32e-4 -0.103516,0.00195 -3.5327049,0.017494 -6.275402,0.919935 -8.125,2.769531 -1.849596,1.849598 -2.752037,4.5922951 -2.769531,8.125 C 1.000232,11.930667 1,11.965375 1,12 v 1 c 0,1.108 0.892,2 2,2 z M 5,14 H 3 C 2.446,14 2,13.554 2,13 v -1 c 0,-0.554 0.446,-1 1,-1 h 2 c 0.554,0 1,0.446 1,1 v 1 c 0,0.554 -0.446,1 -1,1 z M 13,6 H 12 C 11.446,6 11,5.554 11,5 V 3 c 0,-0.554 0.446,-1 1,-1 h 1 c 0.554,0 1,0.446 1,1 v 2 c 0,0.554 -0.446,1 -1,1 z" />
+  </g>
+</svg>

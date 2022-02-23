@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="contact-new-symbolic.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="24.660349"
+     inkscape:cx="8.0290834"
+     inkscape:cy="11.678667"
+     inkscape:window-width="1366"
+     inkscape:window-height="692"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect848"
+       style="fill:#000000;stroke-width:1.34164;stroke-linecap:round;stroke-linejoin:round"
+       d="M 8 1 C 6.338 1 5 2.338 5 4 C 5 5.662 6.338 7 8 7 C 9.662 7 11 5.662 11 4 C 11 2.338 9.662 1 8 1 z M 8 2 C 9.108 2 10 2.892 10 4 C 10 5.108 9.108 6 8 6 C 6.892 6 6 5.108 6 4 C 6 2.892 6.892 2 8 2 z " />
+    <path
+       id="rect848-3"
+       style="fill:#000000;stroke-width:3.1305;stroke-linecap:round;stroke-linejoin:round"
+       d="M 8 8 C 4.122 8 1 11.122 1 15 L 10 15 L 10 14 L 2.0839844 14 C 2.5576152 11.155543 5.0170533 9 8 9 C 9.2314386 9 10.372147 9.3684675 11.322266 10 L 12.908203 10 C 11.646712 8.7616599 9.9155655 8 8 8 z " />
+    <path
+       id="rect1714"
+       style="stroke-width:0.205751"
+       d="m 13.037109,11 v 2 H 11 v 0.962891 h 2.037109 V 16 H 14 v -2.037109 h 2 V 13 h -2 v -2 z" />
+  </g>
+</svg>

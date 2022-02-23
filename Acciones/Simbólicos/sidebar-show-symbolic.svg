@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="sidebar-show-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="6.1098444"
+     inkscape:cx="7.5288333"
+     inkscape:cy="9.8202174"
+     inkscape:window-width="1366"
+     inkscape:window-height="692"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid928" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1053"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#bec1ff;stop-opacity:1;"
+         offset="0"
+         id="stop1051" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1417"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,1,1,0,0.89442719,0,1 @ F,0,0,1,0,0.89442719,0,1 @ F,0,1,1,0,0.89442719,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       id="rect1197-6"
+       width="5"
+       height="14"
+       x="1"
+       y="1"
+       ry="0"
+       style="stroke-width:2.16025;opacity:0.5" />
+    <path
+       id="rect1030"
+       style="stroke-width:2;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+       d="M 3 0 C 1.338 0 0 1.338 0 3 L 0 13 C 0 14.662 1.338 16 3 16 L 13 16 C 14.662 16 16 14.662 16 13 L 16 3 C 16 1.338 14.662 0 13 0 L 3 0 z M 3 1 L 6 1 L 6 15 L 3 15 C 1.892 15 1 14.108 1 13 L 1 3 C 1 1.892 1.892 1 3 1 z M 7 1 L 13 1 C 14.108 1 15 1.892 15 3 L 15 13 C 15 14.108 14.108 15 13 15 L 7 15 L 7 1 z " />
+  </g>
+</svg>
